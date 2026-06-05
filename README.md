@@ -74,6 +74,14 @@ If your goal is learning rather than strict competition compliance, focus on bui
 
 ## Challenge Structure
 
+## Challenge Pack
+
+Download the challenge pack from:
+
+**Repository → Releases → Latest Release → Assets → challenge-pack.zip**
+
+Start with `README_FIRST.md`.
+
 The challenge is split into three stages.
 
 ### Stage 1 – Batch Processing
